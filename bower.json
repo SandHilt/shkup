@@ -6,7 +6,7 @@
     "PACE": "pace#^1.0.2",
     "normalize-css": "latest",
     "holderjs": "^2.9.3",
-    "randomcolor": "randomColor#^0.4.4"
+    "randomcolor": "^0.4.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
